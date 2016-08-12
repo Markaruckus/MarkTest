@@ -2,9 +2,10 @@
 ## Miss Louise's Class
 
 * Word DOC attached
-* Part 1 - multiple choice
+
+- [x] Part 1 - multiple choice
   * Answers on page 1 and 2
-* Part 2 - quiz coding program
+- [x] Part 2 - quiz coding program
 ```
 $ rails new MySite
 $ cd MySite
