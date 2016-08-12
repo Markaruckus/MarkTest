@@ -1,9 +1,6 @@
 # Ruby on Rails Test
 ## Miss Louise's Class (she's the best)
-
-
-
-#### Word DOC attached
+### Word DOC attached
 
 - [x] Part 1 - multiple choice
   * Answers on page 1 and 2
